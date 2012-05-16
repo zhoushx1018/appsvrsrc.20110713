@@ -1,0 +1,4 @@
+ #!/bin/sh
+killall -9 mainServer
+killall -9 pkServer
+killall -9 gateway

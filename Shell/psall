@@ -1,0 +1,4 @@
+#!/bin/sh
+ps -ef  | grep gateway
+ps -ef  | grep mainServer
+ps -ef  | grep pkServer

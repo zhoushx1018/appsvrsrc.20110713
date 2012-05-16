@@ -1,0 +1,4 @@
+#!/bin/sh
+$PWD/gateway gateway.ini
+$PWD/mainServer mainServer.ini
+$PWD/pkServer pkServer.ini
